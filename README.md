@@ -35,9 +35,3 @@ I'm building experience in:
 - JavaScript
 - Python
 - SQL (Postgres)
-
----
-
-## Contact
-
-- GitHub: [@emilTejnRasmussen](https://github.com/emilTejnRasmussen)
