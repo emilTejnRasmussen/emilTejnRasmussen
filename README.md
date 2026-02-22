@@ -27,10 +27,14 @@ I'm building experience in:
 
 ## Tech I'm Working With
 
-*(Update this as you go)*
 
 - Git / GitHub
-- [Add languages here – e.g. Java, C#, Python, etc.]
+- Java
+- HTML
+- CSS
+- JavaScript
+- Python
+- SQL (Postgres)
 
 ---
 
